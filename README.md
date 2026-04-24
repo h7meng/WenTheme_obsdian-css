@@ -57,6 +57,20 @@
 
 开源的魅力就在于大家聚在一起把东西做得更好。感谢每一位愿意停下来看这段文字的你，更感谢每一位愿意伸手相助的朋友！✨
 
+📢 A Message to Fellow Friends
+
+Hello everyone! I’m the author of this theme.
+
+To be honest, I’m just a CSS beginner. The birth of this theme owes a lot to the powerful help of AI, which allowed me to realize many effects I couldn’t have achieved on my own. But because of that, there might be a number of bugs or not-so-standard code tucked away in the project.
+
+Also, since my foreign language skills are limited, the theme is only available in Chinese for now, and I haven’t been able to accommodate friends who prefer an English interface yet.
+
+I’d like to make two small requests to everyone:  
+1. Feedback is welcome! If you’re into front-end or CSS and spot clumsy code, redundancy, or know a much better way to do something, please do share your insights! Whether opening an Issue or directly modifying the code, you’d be helping me a ton.  
+2. Translations needed! If there’s anyone kind and fluent in English (or other languages) willing to help translate the theme into more languages, that would be an absolute lifesaver.
+
+The beauty of open source is that we can all come together and make something better. Thank you to everyone who took the time to read this, and an even bigger thank you to those willing to lend a hand! ✨
+
 ```
 🚀 WenTheme | 灵动交互・实用至上  
 ✅ 极致灵动交互：选择框、滚动条、代码块等全维度动态反馈，操作丝滑有呼应；  
